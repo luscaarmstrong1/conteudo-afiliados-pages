@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://luscaarmstrong1.github.io/conteudo-afiliados-pages/sitemap.xml
