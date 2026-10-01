@@ -21,27 +21,33 @@
     "images": [
       {
         "url": "https://res.cloudinary.com/xrakiohl/image/upload/v1783143809/pinterest/shopee-achados/PhotoGrid_Site_1759539432984-9a856c7f184d.jpg",
-        "theme": "cozinha organizada"
+        "theme": "cozinha organizada",
+        "semantic_theme": "cozinha organizada"
       },
       {
         "url": "https://res.cloudinary.com/xrakiohl/image/upload/v1783143811/pinterest/shopee-achados/PhotoGrid_Site_1759539506736-4e8db2731d80.jpg",
-        "theme": "cozinha organizada"
+        "theme": "cozinha organizada",
+        "semantic_theme": "cozinha organizada"
       },
       {
         "url": "https://res.cloudinary.com/xrakiohl/image/upload/v1783143812/pinterest/shopee-achados/PhotoGrid_Site_1759539568780-8f6fd1b8be4d.jpg",
-        "theme": "cozinha organizada"
+        "theme": "cozinha organizada",
+        "semantic_theme": "cozinha organizada"
       },
       {
         "url": "https://res.cloudinary.com/xrakiohl/image/upload/v1783143813/pinterest/shopee-achados/PhotoGrid_Site_1759539632032-5c50795f2a74.jpg",
-        "theme": "gaveta organizada"
+        "theme": "gaveta organizada",
+        "semantic_theme": "gaveta organizada"
       },
       {
         "url": "https://res.cloudinary.com/xrakiohl/image/upload/v1783143814/pinterest/shopee-achados/PhotoGrid_Site_1759539752429-1a6ed47f44cd.jpg",
-        "theme": "gaveta organizada"
+        "theme": "gaveta organizada",
+        "semantic_theme": "gaveta organizada"
       },
       {
         "url": "https://res.cloudinary.com/xrakiohl/image/upload/v1783143815/pinterest/shopee-achados/PhotoGrid_Site_1759539806558-72400313a8b5.jpg",
-        "theme": "gaveta organizada"
+        "theme": "gaveta organizada",
+        "semantic_theme": "gaveta organizada"
       }
     ]
   },
@@ -66,15 +72,18 @@
     "images": [
       {
         "url": "https://res.cloudinary.com/xrakiohl/image/upload/v1783143798/pinterest/shopee-achados/PhotoGrid_Site_1759538212444-34d96cf9c9c2.jpg",
-        "theme": "banheiro organizado"
+        "theme": "banheiro organizado",
+        "semantic_theme": "banheiro organizado"
       },
       {
         "url": "https://res.cloudinary.com/xrakiohl/image/upload/v1783143799/pinterest/shopee-achados/PhotoGrid_Site_1759538312362-9e3eca3f4f99.jpg",
-        "theme": "banheiro organizado"
+        "theme": "banheiro organizado",
+        "semantic_theme": "banheiro organizado"
       },
       {
         "url": "https://res.cloudinary.com/xrakiohl/image/upload/v1783143799/pinterest/shopee-achados/PhotoGrid_Site_1759538355541-a2e1cc34b750.jpg",
-        "theme": "banheiro organizado"
+        "theme": "banheiro organizado",
+        "semantic_theme": "banheiro organizado"
       }
     ]
   },
@@ -99,15 +108,18 @@
     "images": [
       {
         "url": "https://res.cloudinary.com/xrakiohl/image/upload/v1783143815/pinterest/shopee-achados/PhotoGrid_Site_1759539911536-9846f0cfb254.jpg",
-        "theme": "geladeira organizada"
+        "theme": "geladeira organizada",
+        "semantic_theme": "geladeira organizada"
       },
       {
         "url": "https://res.cloudinary.com/xrakiohl/image/upload/v1783143816/pinterest/shopee-achados/PhotoGrid_Site_1759540103788-46088cf60d68.jpg",
-        "theme": "geladeira organizada"
+        "theme": "geladeira organizada",
+        "semantic_theme": "geladeira organizada"
       },
       {
         "url": "https://res.cloudinary.com/xrakiohl/image/upload/v1783143817/pinterest/shopee-achados/PhotoGrid_Site_1759540178214-e0c27b3b8fdc.jpg",
-        "theme": "geladeira organizada"
+        "theme": "geladeira organizada",
+        "semantic_theme": "geladeira organizada"
       }
     ]
   },
@@ -133,27 +145,33 @@
     "images": [
       {
         "url": "https://res.cloudinary.com/xrakiohl/image/upload/v1783143809/pinterest/shopee-achados/PhotoGrid_Site_1759539432984-9a856c7f184d.jpg",
-        "theme": "cozinha organizada"
+        "theme": "cozinha organizada",
+        "semantic_theme": "cozinha organizada"
       },
       {
         "url": "https://res.cloudinary.com/xrakiohl/image/upload/v1783143811/pinterest/shopee-achados/PhotoGrid_Site_1759539506736-4e8db2731d80.jpg",
-        "theme": "cozinha organizada"
+        "theme": "cozinha organizada",
+        "semantic_theme": "cozinha organizada"
       },
       {
         "url": "https://res.cloudinary.com/xrakiohl/image/upload/v1783143812/pinterest/shopee-achados/PhotoGrid_Site_1759539568780-8f6fd1b8be4d.jpg",
-        "theme": "cozinha organizada"
+        "theme": "cozinha organizada",
+        "semantic_theme": "cozinha organizada"
       },
       {
         "url": "https://res.cloudinary.com/xrakiohl/image/upload/v1783143813/pinterest/shopee-achados/PhotoGrid_Site_1759539632032-5c50795f2a74.jpg",
-        "theme": "gaveta organizada"
+        "theme": "gaveta organizada",
+        "semantic_theme": "gaveta organizada"
       },
       {
         "url": "https://res.cloudinary.com/xrakiohl/image/upload/v1783143814/pinterest/shopee-achados/PhotoGrid_Site_1759539752429-1a6ed47f44cd.jpg",
-        "theme": "gaveta organizada"
+        "theme": "gaveta organizada",
+        "semantic_theme": "gaveta organizada"
       },
       {
         "url": "https://res.cloudinary.com/xrakiohl/image/upload/v1783143815/pinterest/shopee-achados/PhotoGrid_Site_1759539806558-72400313a8b5.jpg",
-        "theme": "gaveta organizada"
+        "theme": "gaveta organizada",
+        "semantic_theme": "gaveta organizada"
       }
     ]
   },
@@ -179,27 +197,33 @@
     "images": [
       {
         "url": "https://res.cloudinary.com/xrakiohl/image/upload/v1783143809/pinterest/shopee-achados/PhotoGrid_Site_1759539432984-9a856c7f184d.jpg",
-        "theme": "cozinha organizada"
+        "theme": "cozinha organizada",
+        "semantic_theme": "cozinha organizada"
       },
       {
         "url": "https://res.cloudinary.com/xrakiohl/image/upload/v1783143811/pinterest/shopee-achados/PhotoGrid_Site_1759539506736-4e8db2731d80.jpg",
-        "theme": "cozinha organizada"
+        "theme": "cozinha organizada",
+        "semantic_theme": "cozinha organizada"
       },
       {
         "url": "https://res.cloudinary.com/xrakiohl/image/upload/v1783143812/pinterest/shopee-achados/PhotoGrid_Site_1759539568780-8f6fd1b8be4d.jpg",
-        "theme": "cozinha organizada"
+        "theme": "cozinha organizada",
+        "semantic_theme": "cozinha organizada"
       },
       {
         "url": "https://res.cloudinary.com/xrakiohl/image/upload/v1783143826/pinterest/shopee-achados/PhotoGrid_Site_1759540967737-1697a285b46d.jpg",
-        "theme": "pia organizada"
+        "theme": "pia organizada",
+        "semantic_theme": "pia organizada"
       },
       {
         "url": "https://res.cloudinary.com/xrakiohl/image/upload/v1783143827/pinterest/shopee-achados/PhotoGrid_Site_1759541007648-b4eaf89877b9.jpg",
-        "theme": "pia organizada"
+        "theme": "pia organizada",
+        "semantic_theme": "pia organizada"
       },
       {
         "url": "https://res.cloudinary.com/xrakiohl/image/upload/v1783143828/pinterest/shopee-achados/PhotoGrid_Site_1759541102911-2979d6ca756d.jpg",
-        "theme": "pia organizada"
+        "theme": "pia organizada",
+        "semantic_theme": "pia organizada"
       }
     ]
   },
@@ -225,27 +249,33 @@
     "images": [
       {
         "url": "https://res.cloudinary.com/xrakiohl/image/upload/v1783143809/pinterest/shopee-achados/PhotoGrid_Site_1759539432984-9a856c7f184d.jpg",
-        "theme": "cozinha organizada"
+        "theme": "cozinha organizada",
+        "semantic_theme": "cozinha organizada"
       },
       {
         "url": "https://res.cloudinary.com/xrakiohl/image/upload/v1783143811/pinterest/shopee-achados/PhotoGrid_Site_1759539506736-4e8db2731d80.jpg",
-        "theme": "cozinha organizada"
+        "theme": "cozinha organizada",
+        "semantic_theme": "cozinha organizada"
       },
       {
         "url": "https://res.cloudinary.com/xrakiohl/image/upload/v1783143812/pinterest/shopee-achados/PhotoGrid_Site_1759539568780-8f6fd1b8be4d.jpg",
-        "theme": "cozinha organizada"
+        "theme": "cozinha organizada",
+        "semantic_theme": "cozinha organizada"
       },
       {
         "url": "https://res.cloudinary.com/xrakiohl/image/upload/v1783143826/pinterest/shopee-achados/PhotoGrid_Site_1759540967737-1697a285b46d.jpg",
-        "theme": "pia organizada"
+        "theme": "pia organizada",
+        "semantic_theme": "pia organizada"
       },
       {
         "url": "https://res.cloudinary.com/xrakiohl/image/upload/v1783143827/pinterest/shopee-achados/PhotoGrid_Site_1759541007648-b4eaf89877b9.jpg",
-        "theme": "pia organizada"
+        "theme": "pia organizada",
+        "semantic_theme": "pia organizada"
       },
       {
         "url": "https://res.cloudinary.com/xrakiohl/image/upload/v1783143828/pinterest/shopee-achados/PhotoGrid_Site_1759541102911-2979d6ca756d.jpg",
-        "theme": "pia organizada"
+        "theme": "pia organizada",
+        "semantic_theme": "pia organizada"
       }
     ]
   },
@@ -270,15 +300,18 @@
     "images": [
       {
         "url": "https://res.cloudinary.com/xrakiohl/image/upload/v1783143802/pinterest/shopee-achados/PhotoGrid_Site_1759538635699-a557aa133e0d.jpg",
-        "theme": "carro limpo"
+        "theme": "carro limpo",
+        "semantic_theme": "carro limpo"
       },
       {
         "url": "https://res.cloudinary.com/xrakiohl/image/upload/v1783143803/pinterest/shopee-achados/PhotoGrid_Site_1759538665299-8c3798991992.jpg",
-        "theme": "carro limpo"
+        "theme": "carro limpo",
+        "semantic_theme": "carro limpo"
       },
       {
         "url": "https://res.cloudinary.com/xrakiohl/image/upload/v1783143804/pinterest/shopee-achados/PhotoGrid_Site_1759538725716-7e5b3880f246.jpg",
-        "theme": "carro limpo"
+        "theme": "carro limpo",
+        "semantic_theme": "carro limpo"
       }
     ]
   },
@@ -303,15 +336,18 @@
     "images": [
       {
         "url": "https://res.cloudinary.com/xrakiohl/image/upload/v1783143807/pinterest/shopee-achados/PhotoGrid_Site_1759539035555-5a698702754e.jpg",
-        "theme": "casa limpa"
+        "theme": "casa limpa",
+        "semantic_theme": "casa limpa"
       },
       {
         "url": "https://res.cloudinary.com/xrakiohl/image/upload/v1783143808/pinterest/shopee-achados/PhotoGrid_Site_1759539210936-016d6d580fde.jpg",
-        "theme": "casa limpa"
+        "theme": "casa limpa",
+        "semantic_theme": "casa limpa"
       },
       {
         "url": "https://res.cloudinary.com/xrakiohl/image/upload/v1783143809/pinterest/shopee-achados/PhotoGrid_Site_1759539375784-40db7b5c47b9.jpg",
-        "theme": "casa limpa"
+        "theme": "casa limpa",
+        "semantic_theme": "casa limpa"
       }
     ]
   },
@@ -336,15 +372,18 @@
     "images": [
       {
         "url": "https://res.cloudinary.com/xrakiohl/image/upload/v1783143834/pinterest/shopee-achados/PhotoGrid_Site_1759542281105-de807685df37.jpg",
-        "theme": "área externa iluminada"
+        "theme": "área externa iluminada",
+        "semantic_theme": "área externa iluminada"
       },
       {
         "url": "https://res.cloudinary.com/xrakiohl/image/upload/v1783143835/pinterest/shopee-achados/PhotoGrid_Site_1759542320953-c310cab3617b.jpg",
-        "theme": "área externa iluminada"
+        "theme": "área externa iluminada",
+        "semantic_theme": "área externa iluminada"
       },
       {
         "url": "https://res.cloudinary.com/xrakiohl/image/upload/v1783143836/pinterest/shopee-achados/PhotoGrid_Site_1759542439732-3c39c2994884.jpg",
-        "theme": "área externa iluminada"
+        "theme": "área externa iluminada",
+        "semantic_theme": "área externa iluminada"
       }
     ]
   },
@@ -370,27 +409,33 @@
     "images": [
       {
         "url": "https://res.cloudinary.com/xrakiohl/image/upload/v1783143829/pinterest/shopee-achados/PhotoGrid_Site_1759541146146-bfe6e227f2ae.jpg",
-        "theme": "quarto aconchegante"
+        "theme": "quarto aconchegante",
+        "semantic_theme": "quarto aconchegante"
       },
       {
         "url": "https://res.cloudinary.com/xrakiohl/image/upload/v1783143830/pinterest/shopee-achados/PhotoGrid_Site_1759541198004-27c54287afa9.jpg",
-        "theme": "quarto aconchegante"
+        "theme": "quarto aconchegante",
+        "semantic_theme": "quarto aconchegante"
       },
       {
         "url": "https://res.cloudinary.com/xrakiohl/image/upload/v1783143831/pinterest/shopee-achados/PhotoGrid_Site_1759541319438-6ecf93ad94e2.jpg",
-        "theme": "quarto aconchegante"
+        "theme": "quarto aconchegante",
+        "semantic_theme": "quarto aconchegante"
       },
       {
         "url": "https://res.cloudinary.com/xrakiohl/image/upload/v1783143831/pinterest/shopee-achados/PhotoGrid_Site_1759541429708-4220353c736c.jpg",
-        "theme": "quarto decorado"
+        "theme": "quarto decorado",
+        "semantic_theme": "quarto decorado"
       },
       {
         "url": "https://res.cloudinary.com/xrakiohl/image/upload/v1783143832/pinterest/shopee-achados/PhotoGrid_Site_1759541949313-519f21aa4f98.jpg",
-        "theme": "quarto decorado"
+        "theme": "quarto decorado",
+        "semantic_theme": "quarto decorado"
       },
       {
         "url": "https://res.cloudinary.com/xrakiohl/image/upload/v1783143833/pinterest/shopee-achados/PhotoGrid_Site_1759542210684-ccbf4af176eb.jpg",
-        "theme": "quarto decorado"
+        "theme": "quarto decorado",
+        "semantic_theme": "quarto decorado"
       }
     ]
   },
@@ -415,15 +460,18 @@
     "images": [
       {
         "url": "https://res.cloudinary.com/xrakiohl/image/upload/v1783143795/pinterest/shopee-achados/PhotoGrid_Site_1759538058219-3490b3a4bbb8.jpg",
-        "theme": "armário iluminado"
+        "theme": "armário iluminado",
+        "semantic_theme": "armário iluminado"
       },
       {
         "url": "https://res.cloudinary.com/xrakiohl/image/upload/v1783143796/pinterest/shopee-achados/PhotoGrid_Site_1759538110280-8fd624040bcf.jpg",
-        "theme": "armário iluminado"
+        "theme": "armário iluminado",
+        "semantic_theme": "armário iluminado"
       },
       {
         "url": "https://res.cloudinary.com/xrakiohl/image/upload/v1783143797/pinterest/shopee-achados/PhotoGrid_Site_1759538150937-f09cd7ba5981.jpg",
-        "theme": "armário iluminado"
+        "theme": "armário iluminado",
+        "semantic_theme": "armário iluminado"
       }
     ]
   },
@@ -449,27 +497,33 @@
     "images": [
       {
         "url": "https://res.cloudinary.com/xrakiohl/image/upload/v1783143829/pinterest/shopee-achados/PhotoGrid_Site_1759541146146-bfe6e227f2ae.jpg",
-        "theme": "quarto aconchegante"
+        "theme": "quarto aconchegante",
+        "semantic_theme": "quarto aconchegante"
       },
       {
         "url": "https://res.cloudinary.com/xrakiohl/image/upload/v1783143830/pinterest/shopee-achados/PhotoGrid_Site_1759541198004-27c54287afa9.jpg",
-        "theme": "quarto aconchegante"
+        "theme": "quarto aconchegante",
+        "semantic_theme": "quarto aconchegante"
       },
       {
         "url": "https://res.cloudinary.com/xrakiohl/image/upload/v1783143831/pinterest/shopee-achados/PhotoGrid_Site_1759541319438-6ecf93ad94e2.jpg",
-        "theme": "quarto aconchegante"
+        "theme": "quarto aconchegante",
+        "semantic_theme": "quarto aconchegante"
       },
       {
         "url": "https://res.cloudinary.com/xrakiohl/image/upload/v1783143831/pinterest/shopee-achados/PhotoGrid_Site_1759541429708-4220353c736c.jpg",
-        "theme": "quarto decorado"
+        "theme": "quarto decorado",
+        "semantic_theme": "quarto decorado"
       },
       {
         "url": "https://res.cloudinary.com/xrakiohl/image/upload/v1783143832/pinterest/shopee-achados/PhotoGrid_Site_1759541949313-519f21aa4f98.jpg",
-        "theme": "quarto decorado"
+        "theme": "quarto decorado",
+        "semantic_theme": "quarto decorado"
       },
       {
         "url": "https://res.cloudinary.com/xrakiohl/image/upload/v1783143833/pinterest/shopee-achados/PhotoGrid_Site_1759542210684-ccbf4af176eb.jpg",
-        "theme": "quarto decorado"
+        "theme": "quarto decorado",
+        "semantic_theme": "quarto decorado"
       }
     ]
   },
@@ -495,27 +549,33 @@
     "images": [
       {
         "url": "https://res.cloudinary.com/xrakiohl/image/upload/v1783143800/pinterest/shopee-achados/PhotoGrid_Site_1759538400615-eb134d59b8d9.jpg",
-        "theme": "cantinho de entretenimento"
+        "theme": "cantinho de entretenimento",
+        "semantic_theme": "cantinho de entretenimento"
       },
       {
         "url": "https://res.cloudinary.com/xrakiohl/image/upload/v1783143801/pinterest/shopee-achados/PhotoGrid_Site_1759538441515-6d123d618527.jpg",
-        "theme": "cantinho de entretenimento"
+        "theme": "cantinho de entretenimento",
+        "semantic_theme": "cantinho de entretenimento"
       },
       {
         "url": "https://res.cloudinary.com/xrakiohl/image/upload/v1783143802/pinterest/shopee-achados/PhotoGrid_Site_1759538520533-f0b3bc3e9714.jpg",
-        "theme": "cantinho de entretenimento"
+        "theme": "cantinho de entretenimento",
+        "semantic_theme": "cantinho de entretenimento"
       },
       {
         "url": "https://res.cloudinary.com/xrakiohl/image/upload/v1783143821/pinterest/shopee-achados/PhotoGrid_Site_1759540436626-bd50d881d869.jpg",
-        "theme": "mesa organizada"
+        "theme": "mesa organizada",
+        "semantic_theme": "mesa organizada"
       },
       {
         "url": "https://res.cloudinary.com/xrakiohl/image/upload/v1783143822/pinterest/shopee-achados/PhotoGrid_Site_1759540543137-64c858839ec6.jpg",
-        "theme": "mesa organizada"
+        "theme": "mesa organizada",
+        "semantic_theme": "mesa organizada"
       },
       {
         "url": "https://res.cloudinary.com/xrakiohl/image/upload/v1783143823/pinterest/shopee-achados/PhotoGrid_Site_1759540605141-c3e3e826d21f.jpg",
-        "theme": "mesa organizada"
+        "theme": "mesa organizada",
+        "semantic_theme": "mesa organizada"
       }
     ]
   },
@@ -541,27 +601,33 @@
     "images": [
       {
         "url": "https://res.cloudinary.com/xrakiohl/image/upload/v1783143802/pinterest/shopee-achados/PhotoGrid_Site_1759538635699-a557aa133e0d.jpg",
-        "theme": "carro limpo"
+        "theme": "carro limpo",
+        "semantic_theme": "carro limpo"
       },
       {
         "url": "https://res.cloudinary.com/xrakiohl/image/upload/v1783143803/pinterest/shopee-achados/PhotoGrid_Site_1759538665299-8c3798991992.jpg",
-        "theme": "carro limpo"
+        "theme": "carro limpo",
+        "semantic_theme": "carro limpo"
       },
       {
         "url": "https://res.cloudinary.com/xrakiohl/image/upload/v1783143804/pinterest/shopee-achados/PhotoGrid_Site_1759538725716-7e5b3880f246.jpg",
-        "theme": "carro limpo"
+        "theme": "carro limpo",
+        "semantic_theme": "carro limpo"
       },
       {
         "url": "https://res.cloudinary.com/xrakiohl/image/upload/v1783143805/pinterest/shopee-achados/PhotoGrid_Site_1759538852207-b13e0c93db79.jpg",
-        "theme": "carro organizado"
+        "theme": "carro organizado",
+        "semantic_theme": "carro organizado"
       },
       {
         "url": "https://res.cloudinary.com/xrakiohl/image/upload/v1783143805/pinterest/shopee-achados/PhotoGrid_Site_1759538937118-f545d408dd0a.jpg",
-        "theme": "carro organizado"
+        "theme": "carro organizado",
+        "semantic_theme": "carro organizado"
       },
       {
         "url": "https://res.cloudinary.com/xrakiohl/image/upload/v1783143806/pinterest/shopee-achados/PhotoGrid_Site_1759538978298-1915816d2aa8.jpg",
-        "theme": "carro organizado"
+        "theme": "carro organizado",
+        "semantic_theme": "carro organizado"
       }
     ]
   },
@@ -587,27 +653,33 @@
     "images": [
       {
         "url": "https://res.cloudinary.com/xrakiohl/image/upload/v1783143800/pinterest/shopee-achados/PhotoGrid_Site_1759538400615-eb134d59b8d9.jpg",
-        "theme": "cantinho de entretenimento"
+        "theme": "cantinho de entretenimento",
+        "semantic_theme": "cantinho de entretenimento"
       },
       {
         "url": "https://res.cloudinary.com/xrakiohl/image/upload/v1783143801/pinterest/shopee-achados/PhotoGrid_Site_1759538441515-6d123d618527.jpg",
-        "theme": "cantinho de entretenimento"
+        "theme": "cantinho de entretenimento",
+        "semantic_theme": "cantinho de entretenimento"
       },
       {
         "url": "https://res.cloudinary.com/xrakiohl/image/upload/v1783143802/pinterest/shopee-achados/PhotoGrid_Site_1759538520533-f0b3bc3e9714.jpg",
-        "theme": "cantinho de entretenimento"
+        "theme": "cantinho de entretenimento",
+        "semantic_theme": "cantinho de entretenimento"
       },
       {
         "url": "https://res.cloudinary.com/xrakiohl/image/upload/v1783143821/pinterest/shopee-achados/PhotoGrid_Site_1759540436626-bd50d881d869.jpg",
-        "theme": "mesa organizada"
+        "theme": "mesa organizada",
+        "semantic_theme": "mesa organizada"
       },
       {
         "url": "https://res.cloudinary.com/xrakiohl/image/upload/v1783143822/pinterest/shopee-achados/PhotoGrid_Site_1759540543137-64c858839ec6.jpg",
-        "theme": "mesa organizada"
+        "theme": "mesa organizada",
+        "semantic_theme": "mesa organizada"
       },
       {
         "url": "https://res.cloudinary.com/xrakiohl/image/upload/v1783143823/pinterest/shopee-achados/PhotoGrid_Site_1759540605141-c3e3e826d21f.jpg",
-        "theme": "mesa organizada"
+        "theme": "mesa organizada",
+        "semantic_theme": "mesa organizada"
       }
     ]
   },
@@ -632,15 +704,18 @@
     "images": [
       {
         "url": "https://res.cloudinary.com/xrakiohl/image/upload/v1783143818/pinterest/shopee-achados/PhotoGrid_Site_1759540277742-5662569271c2.jpg",
-        "theme": "maquiagem organizada"
+        "theme": "maquiagem organizada",
+        "semantic_theme": "maquiagem organizada"
       },
       {
         "url": "https://res.cloudinary.com/xrakiohl/image/upload/v1783143819/pinterest/shopee-achados/PhotoGrid_Site_1759540322240-9ed8f002da33.jpg",
-        "theme": "maquiagem organizada"
+        "theme": "maquiagem organizada",
+        "semantic_theme": "maquiagem organizada"
       },
       {
         "url": "https://res.cloudinary.com/xrakiohl/image/upload/v1783143820/pinterest/shopee-achados/PhotoGrid_Site_1759540390602-ee194c698e62.jpg",
-        "theme": "maquiagem organizada"
+        "theme": "maquiagem organizada",
+        "semantic_theme": "maquiagem organizada"
       }
     ]
   },
@@ -666,27 +741,33 @@
     "images": [
       {
         "url": "https://res.cloudinary.com/xrakiohl/image/upload/v1783143809/pinterest/shopee-achados/PhotoGrid_Site_1759539432984-9a856c7f184d.jpg",
-        "theme": "cozinha organizada"
+        "theme": "cozinha organizada",
+        "semantic_theme": "cozinha organizada"
       },
       {
         "url": "https://res.cloudinary.com/xrakiohl/image/upload/v1783143811/pinterest/shopee-achados/PhotoGrid_Site_1759539506736-4e8db2731d80.jpg",
-        "theme": "cozinha organizada"
+        "theme": "cozinha organizada",
+        "semantic_theme": "cozinha organizada"
       },
       {
         "url": "https://res.cloudinary.com/xrakiohl/image/upload/v1783143812/pinterest/shopee-achados/PhotoGrid_Site_1759539568780-8f6fd1b8be4d.jpg",
-        "theme": "cozinha organizada"
+        "theme": "cozinha organizada",
+        "semantic_theme": "cozinha organizada"
       },
       {
         "url": "https://res.cloudinary.com/xrakiohl/image/upload/v1783143826/pinterest/shopee-achados/PhotoGrid_Site_1759540967737-1697a285b46d.jpg",
-        "theme": "pia organizada"
+        "theme": "pia organizada",
+        "semantic_theme": "pia organizada"
       },
       {
         "url": "https://res.cloudinary.com/xrakiohl/image/upload/v1783143827/pinterest/shopee-achados/PhotoGrid_Site_1759541007648-b4eaf89877b9.jpg",
-        "theme": "pia organizada"
+        "theme": "pia organizada",
+        "semantic_theme": "pia organizada"
       },
       {
         "url": "https://res.cloudinary.com/xrakiohl/image/upload/v1783143828/pinterest/shopee-achados/PhotoGrid_Site_1759541102911-2979d6ca756d.jpg",
-        "theme": "pia organizada"
+        "theme": "pia organizada",
+        "semantic_theme": "pia organizada"
       }
     ]
   },
@@ -712,27 +793,33 @@
     "images": [
       {
         "url": "https://res.cloudinary.com/xrakiohl/image/upload/v1783143809/pinterest/shopee-achados/PhotoGrid_Site_1759539432984-9a856c7f184d.jpg",
-        "theme": "cozinha organizada"
+        "theme": "cozinha organizada",
+        "semantic_theme": "cozinha organizada"
       },
       {
         "url": "https://res.cloudinary.com/xrakiohl/image/upload/v1783143811/pinterest/shopee-achados/PhotoGrid_Site_1759539506736-4e8db2731d80.jpg",
-        "theme": "cozinha organizada"
+        "theme": "cozinha organizada",
+        "semantic_theme": "cozinha organizada"
       },
       {
         "url": "https://res.cloudinary.com/xrakiohl/image/upload/v1783143812/pinterest/shopee-achados/PhotoGrid_Site_1759539568780-8f6fd1b8be4d.jpg",
-        "theme": "cozinha organizada"
+        "theme": "cozinha organizada",
+        "semantic_theme": "cozinha organizada"
       },
       {
         "url": "https://res.cloudinary.com/xrakiohl/image/upload/v1783143826/pinterest/shopee-achados/PhotoGrid_Site_1759540967737-1697a285b46d.jpg",
-        "theme": "pia organizada"
+        "theme": "pia organizada",
+        "semantic_theme": "pia organizada"
       },
       {
         "url": "https://res.cloudinary.com/xrakiohl/image/upload/v1783143827/pinterest/shopee-achados/PhotoGrid_Site_1759541007648-b4eaf89877b9.jpg",
-        "theme": "pia organizada"
+        "theme": "pia organizada",
+        "semantic_theme": "pia organizada"
       },
       {
         "url": "https://res.cloudinary.com/xrakiohl/image/upload/v1783143828/pinterest/shopee-achados/PhotoGrid_Site_1759541102911-2979d6ca756d.jpg",
-        "theme": "pia organizada"
+        "theme": "pia organizada",
+        "semantic_theme": "pia organizada"
       }
     ]
   },
@@ -757,15 +844,18 @@
     "images": [
       {
         "url": "https://res.cloudinary.com/xrakiohl/image/upload/v1783143823/pinterest/shopee-achados/PhotoGrid_Site_1759540742975-6ae386381e9d.jpg",
-        "theme": "mesa posta elegante"
+        "theme": "mesa posta elegante",
+        "semantic_theme": "mesa posta elegante"
       },
       {
         "url": "https://res.cloudinary.com/xrakiohl/image/upload/v1783143824/pinterest/shopee-achados/PhotoGrid_Site_1759540799002-a05b6925c77f.jpg",
-        "theme": "mesa posta elegante"
+        "theme": "mesa posta elegante",
+        "semantic_theme": "mesa posta elegante"
       },
       {
         "url": "https://res.cloudinary.com/xrakiohl/image/upload/v1783143825/pinterest/shopee-achados/PhotoGrid_Site_1759540842777-70d1c9e7e5fc.jpg",
-        "theme": "mesa posta elegante"
+        "theme": "mesa posta elegante",
+        "semantic_theme": "mesa posta elegante"
       }
     ]
   },
@@ -790,15 +880,18 @@
     "images": [
       {
         "url": "https://res.cloudinary.com/xrakiohl/image/upload/v1783143815/pinterest/shopee-achados/PhotoGrid_Site_1759539911536-9846f0cfb254.jpg",
-        "theme": "geladeira organizada"
+        "theme": "geladeira organizada",
+        "semantic_theme": "geladeira organizada"
       },
       {
         "url": "https://res.cloudinary.com/xrakiohl/image/upload/v1783143816/pinterest/shopee-achados/PhotoGrid_Site_1759540103788-46088cf60d68.jpg",
-        "theme": "geladeira organizada"
+        "theme": "geladeira organizada",
+        "semantic_theme": "geladeira organizada"
       },
       {
         "url": "https://res.cloudinary.com/xrakiohl/image/upload/v1783143817/pinterest/shopee-achados/PhotoGrid_Site_1759540178214-e0c27b3b8fdc.jpg",
-        "theme": "geladeira organizada"
+        "theme": "geladeira organizada",
+        "semantic_theme": "geladeira organizada"
       }
     ]
   }

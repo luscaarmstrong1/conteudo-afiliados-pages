@@ -12,6 +12,7 @@ import os
 from pathlib import Path
 import re
 import tempfile
+import unicodedata
 from urllib.parse import urlparse
 import xml.etree.ElementTree as ET
 from zoneinfo import ZoneInfo
@@ -33,6 +34,20 @@ ANGLES_HOTMART = [
     "estudar luz e sombra", "melhorar a composição", "praticar com referência",
     "registrar a evolução", "testar outra técnica", "desenhar com mais intenção",
 ]
+FILENAME_THEME = re.compile(r"(?:^|\s)(?:img|image|foto|dsc|gemini|generated|v0|\d{3,})(?:\s|$)", re.I)
+
+
+def sanitize_theme(theme: str, fallback: str = "referência de desenho") -> str:
+    value = unicodedata.normalize("NFKC", str(theme or "")).replace("_", " ").replace("-", " ")
+    value = " ".join(value.split()).strip(" .,:;~()[]{}")
+    if not value or "�" in value or FILENAME_THEME.search(value) or not any(char.isalpha() for char in value):
+        value = fallback
+    return value[:70].strip()
+
+
+def _normalized_theme(value: str) -> str:
+    value = unicodedata.normalize("NFKD", value.casefold())
+    return " ".join("".join(char for char in value if not unicodedata.combining(char)).split())
 
 
 def write_if_changed(path: Path, text: str) -> bool:
@@ -154,6 +169,12 @@ def _safe_catalog(root: Path, automation: str) -> list[dict]:
             parsed = urlparse(image["url"])
             if parsed.scheme != "https" or parsed.hostname != "res.cloudinary.com":
                 raise ValueError(f"Imagem fora do Cloudinary no catálogo {automation}")
+            if not image.get("semantic_theme"):
+                raise ValueError(f"Imagem sem semantic_theme no catálogo {automation}")
+            if automation == "shopee":
+                allowed = {_normalized_theme(value) for value in entry.get("allowed_themes", [])}
+                if _normalized_theme(image["semantic_theme"]) not in allowed:
+                    raise ValueError("Tema da imagem incompatível com o produto Shopee")
     return catalog
 
 
@@ -179,7 +200,8 @@ def _choose_image(entry: dict, used: set[str], seed: str) -> tuple[str, str]:
     start = int(hashlib.sha256(seed.encode("utf-8")).hexdigest()[:8], 16) % len(images)
     ordered = images[start:] + images[:start]
     image = next((image for image in ordered if _image_url(image["url"]) not in used), ordered[0])
-    return _image_url(image["url"]), image["theme"]
+    fallback = "referência de desenho" if "stable_course_id" in entry else entry.get("primary_intent", "produto útil")
+    return _image_url(image["url"]), sanitize_theme(image.get("semantic_theme", ""), fallback)
 
 
 def _copy(automation: str, entry: dict, theme: str, sequence: int, day: date, history: list[dict]) -> tuple[str, str]:
