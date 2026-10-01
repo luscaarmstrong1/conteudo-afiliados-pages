@@ -1,0 +1,14 @@
+{
+  "timezone": "America/Sao_Paulo",
+  "public_base_url": "https://luscaarmstrong1.github.io/conteudo-afiliados-pages",
+  "phase": 1,
+  "phase_targets": {"1": 10, "2": 15, "3": 20},
+  "feed_max_items": 150,
+  "allow_image_reuse": true,
+  "recent_image_window": 60,
+  "allow_exact_title_reuse": false,
+  "allow_exact_description_reuse": false,
+  "allow_future_pubdate": false,
+  "pinterest_domain_verify_meta": "<meta name=\"p:domain_verify\" content=\"b9776835060f84ec43fa6eac961802da\"/>",
+  "achadinhos_domain_verify_meta": "<meta name=\"p:domain_verify\" content=\"bdc3f2c4b6e6ab5a51decb3c30f52a93\"/>"
+}

@@ -1,0 +1,805 @@
+[
+  {
+    "stable_product_id": "SHP001",
+    "name": "Organizador de Gavetas de Cozinha",
+    "affiliate_url": "https://s.shopee.com.br/Lkc9gY7KV",
+    "allowed_themes": [
+      "cozinha organizada",
+      "gaveta organizada"
+    ],
+    "primary_intent": "organizar ou melhorar gaveta organizada",
+    "secondary_intents": [
+      "comparar alternativas",
+      "salvar inspiracao",
+      "avaliar uso na rotina"
+    ],
+    "forbidden_themes": [
+      "promessa de resultado garantido",
+      "urgencia falsa",
+      "misturar nicho desenho/manga"
+    ],
+    "images": [
+      {
+        "url": "https://res.cloudinary.com/xrakiohl/image/upload/v1783143809/pinterest/shopee-achados/PhotoGrid_Site_1759539432984-9a856c7f184d.jpg",
+        "theme": "cozinha organizada"
+      },
+      {
+        "url": "https://res.cloudinary.com/xrakiohl/image/upload/v1783143811/pinterest/shopee-achados/PhotoGrid_Site_1759539506736-4e8db2731d80.jpg",
+        "theme": "cozinha organizada"
+      },
+      {
+        "url": "https://res.cloudinary.com/xrakiohl/image/upload/v1783143812/pinterest/shopee-achados/PhotoGrid_Site_1759539568780-8f6fd1b8be4d.jpg",
+        "theme": "cozinha organizada"
+      },
+      {
+        "url": "https://res.cloudinary.com/xrakiohl/image/upload/v1783143813/pinterest/shopee-achados/PhotoGrid_Site_1759539632032-5c50795f2a74.jpg",
+        "theme": "gaveta organizada"
+      },
+      {
+        "url": "https://res.cloudinary.com/xrakiohl/image/upload/v1783143814/pinterest/shopee-achados/PhotoGrid_Site_1759539752429-1a6ed47f44cd.jpg",
+        "theme": "gaveta organizada"
+      },
+      {
+        "url": "https://res.cloudinary.com/xrakiohl/image/upload/v1783143815/pinterest/shopee-achados/PhotoGrid_Site_1759539806558-72400313a8b5.jpg",
+        "theme": "gaveta organizada"
+      }
+    ]
+  },
+  {
+    "stable_product_id": "SHP002",
+    "name": "Prateleira Adesiva para Banheiro",
+    "affiliate_url": "https://s.shopee.com.br/5q5Yhuat5Z",
+    "allowed_themes": [
+      "banheiro organizado"
+    ],
+    "primary_intent": "organizar ou melhorar banheiro organizado",
+    "secondary_intents": [
+      "comparar alternativas",
+      "salvar inspiracao",
+      "avaliar uso na rotina"
+    ],
+    "forbidden_themes": [
+      "promessa de resultado garantido",
+      "urgencia falsa",
+      "misturar nicho desenho/manga"
+    ],
+    "images": [
+      {
+        "url": "https://res.cloudinary.com/xrakiohl/image/upload/v1783143798/pinterest/shopee-achados/PhotoGrid_Site_1759538212444-34d96cf9c9c2.jpg",
+        "theme": "banheiro organizado"
+      },
+      {
+        "url": "https://res.cloudinary.com/xrakiohl/image/upload/v1783143799/pinterest/shopee-achados/PhotoGrid_Site_1759538312362-9e3eca3f4f99.jpg",
+        "theme": "banheiro organizado"
+      },
+      {
+        "url": "https://res.cloudinary.com/xrakiohl/image/upload/v1783143799/pinterest/shopee-achados/PhotoGrid_Site_1759538355541-a2e1cc34b750.jpg",
+        "theme": "banheiro organizado"
+      }
+    ]
+  },
+  {
+    "stable_product_id": "SHP003",
+    "name": "Porta Ovos Rolante",
+    "affiliate_url": "https://s.shopee.com.br/6VLFVA7HSp",
+    "allowed_themes": [
+      "geladeira organizada"
+    ],
+    "primary_intent": "organizar ou melhorar geladeira organizada",
+    "secondary_intents": [
+      "comparar alternativas",
+      "salvar inspiracao",
+      "avaliar uso na rotina"
+    ],
+    "forbidden_themes": [
+      "promessa de resultado garantido",
+      "urgencia falsa",
+      "misturar nicho desenho/manga"
+    ],
+    "images": [
+      {
+        "url": "https://res.cloudinary.com/xrakiohl/image/upload/v1783143815/pinterest/shopee-achados/PhotoGrid_Site_1759539911536-9846f0cfb254.jpg",
+        "theme": "geladeira organizada"
+      },
+      {
+        "url": "https://res.cloudinary.com/xrakiohl/image/upload/v1783143816/pinterest/shopee-achados/PhotoGrid_Site_1759540103788-46088cf60d68.jpg",
+        "theme": "geladeira organizada"
+      },
+      {
+        "url": "https://res.cloudinary.com/xrakiohl/image/upload/v1783143817/pinterest/shopee-achados/PhotoGrid_Site_1759540178214-e0c27b3b8fdc.jpg",
+        "theme": "geladeira organizada"
+      }
+    ]
+  },
+  {
+    "stable_product_id": "SHP004",
+    "name": "Jogo de Talheres com Gaveteiro",
+    "affiliate_url": "https://s.shopee.com.br/9KfQsPM5Jq",
+    "allowed_themes": [
+      "cozinha organizada",
+      "gaveta organizada"
+    ],
+    "primary_intent": "organizar ou melhorar gaveta organizada",
+    "secondary_intents": [
+      "comparar alternativas",
+      "salvar inspiracao",
+      "avaliar uso na rotina"
+    ],
+    "forbidden_themes": [
+      "promessa de resultado garantido",
+      "urgencia falsa",
+      "misturar nicho desenho/manga"
+    ],
+    "images": [
+      {
+        "url": "https://res.cloudinary.com/xrakiohl/image/upload/v1783143809/pinterest/shopee-achados/PhotoGrid_Site_1759539432984-9a856c7f184d.jpg",
+        "theme": "cozinha organizada"
+      },
+      {
+        "url": "https://res.cloudinary.com/xrakiohl/image/upload/v1783143811/pinterest/shopee-achados/PhotoGrid_Site_1759539506736-4e8db2731d80.jpg",
+        "theme": "cozinha organizada"
+      },
+      {
+        "url": "https://res.cloudinary.com/xrakiohl/image/upload/v1783143812/pinterest/shopee-achados/PhotoGrid_Site_1759539568780-8f6fd1b8be4d.jpg",
+        "theme": "cozinha organizada"
+      },
+      {
+        "url": "https://res.cloudinary.com/xrakiohl/image/upload/v1783143813/pinterest/shopee-achados/PhotoGrid_Site_1759539632032-5c50795f2a74.jpg",
+        "theme": "gaveta organizada"
+      },
+      {
+        "url": "https://res.cloudinary.com/xrakiohl/image/upload/v1783143814/pinterest/shopee-achados/PhotoGrid_Site_1759539752429-1a6ed47f44cd.jpg",
+        "theme": "gaveta organizada"
+      },
+      {
+        "url": "https://res.cloudinary.com/xrakiohl/image/upload/v1783143815/pinterest/shopee-achados/PhotoGrid_Site_1759539806558-72400313a8b5.jpg",
+        "theme": "gaveta organizada"
+      }
+    ]
+  },
+  {
+    "stable_product_id": "SHP005",
+    "name": "Escorredor de Pratos Dobravel",
+    "affiliate_url": "https://s.shopee.com.br/4ftbJslIh8",
+    "allowed_themes": [
+      "cozinha organizada",
+      "pia organizada"
+    ],
+    "primary_intent": "organizar ou melhorar pia organizada",
+    "secondary_intents": [
+      "comparar alternativas",
+      "salvar inspiracao",
+      "avaliar uso na rotina"
+    ],
+    "forbidden_themes": [
+      "promessa de resultado garantido",
+      "urgencia falsa",
+      "misturar nicho desenho/manga"
+    ],
+    "images": [
+      {
+        "url": "https://res.cloudinary.com/xrakiohl/image/upload/v1783143809/pinterest/shopee-achados/PhotoGrid_Site_1759539432984-9a856c7f184d.jpg",
+        "theme": "cozinha organizada"
+      },
+      {
+        "url": "https://res.cloudinary.com/xrakiohl/image/upload/v1783143811/pinterest/shopee-achados/PhotoGrid_Site_1759539506736-4e8db2731d80.jpg",
+        "theme": "cozinha organizada"
+      },
+      {
+        "url": "https://res.cloudinary.com/xrakiohl/image/upload/v1783143812/pinterest/shopee-achados/PhotoGrid_Site_1759539568780-8f6fd1b8be4d.jpg",
+        "theme": "cozinha organizada"
+      },
+      {
+        "url": "https://res.cloudinary.com/xrakiohl/image/upload/v1783143826/pinterest/shopee-achados/PhotoGrid_Site_1759540967737-1697a285b46d.jpg",
+        "theme": "pia organizada"
+      },
+      {
+        "url": "https://res.cloudinary.com/xrakiohl/image/upload/v1783143827/pinterest/shopee-achados/PhotoGrid_Site_1759541007648-b4eaf89877b9.jpg",
+        "theme": "pia organizada"
+      },
+      {
+        "url": "https://res.cloudinary.com/xrakiohl/image/upload/v1783143828/pinterest/shopee-achados/PhotoGrid_Site_1759541102911-2979d6ca756d.jpg",
+        "theme": "pia organizada"
+      }
+    ]
+  },
+  {
+    "stable_product_id": "SHP006",
+    "name": "Escorredor de Alimentos Retratil",
+    "affiliate_url": "https://s.shopee.com.br/7KuMUoMf3a",
+    "allowed_themes": [
+      "cozinha organizada",
+      "pia organizada"
+    ],
+    "primary_intent": "organizar ou melhorar cozinha organizada",
+    "secondary_intents": [
+      "comparar alternativas",
+      "salvar inspiracao",
+      "avaliar uso na rotina"
+    ],
+    "forbidden_themes": [
+      "promessa de resultado garantido",
+      "urgencia falsa",
+      "misturar nicho desenho/manga"
+    ],
+    "images": [
+      {
+        "url": "https://res.cloudinary.com/xrakiohl/image/upload/v1783143809/pinterest/shopee-achados/PhotoGrid_Site_1759539432984-9a856c7f184d.jpg",
+        "theme": "cozinha organizada"
+      },
+      {
+        "url": "https://res.cloudinary.com/xrakiohl/image/upload/v1783143811/pinterest/shopee-achados/PhotoGrid_Site_1759539506736-4e8db2731d80.jpg",
+        "theme": "cozinha organizada"
+      },
+      {
+        "url": "https://res.cloudinary.com/xrakiohl/image/upload/v1783143812/pinterest/shopee-achados/PhotoGrid_Site_1759539568780-8f6fd1b8be4d.jpg",
+        "theme": "cozinha organizada"
+      },
+      {
+        "url": "https://res.cloudinary.com/xrakiohl/image/upload/v1783143826/pinterest/shopee-achados/PhotoGrid_Site_1759540967737-1697a285b46d.jpg",
+        "theme": "pia organizada"
+      },
+      {
+        "url": "https://res.cloudinary.com/xrakiohl/image/upload/v1783143827/pinterest/shopee-achados/PhotoGrid_Site_1759541007648-b4eaf89877b9.jpg",
+        "theme": "pia organizada"
+      },
+      {
+        "url": "https://res.cloudinary.com/xrakiohl/image/upload/v1783143828/pinterest/shopee-achados/PhotoGrid_Site_1759541102911-2979d6ca756d.jpg",
+        "theme": "pia organizada"
+      }
+    ]
+  },
+  {
+    "stable_product_id": "SHP007",
+    "name": "Mini Aspirador Portatil",
+    "affiliate_url": "https://s.shopee.com.br/1gFzkRuq5A",
+    "allowed_themes": [
+      "carro limpo"
+    ],
+    "primary_intent": "organizar ou melhorar carro limpo",
+    "secondary_intents": [
+      "comparar alternativas",
+      "salvar inspiracao",
+      "avaliar uso na rotina"
+    ],
+    "forbidden_themes": [
+      "promessa de resultado garantido",
+      "urgencia falsa",
+      "misturar nicho desenho/manga"
+    ],
+    "images": [
+      {
+        "url": "https://res.cloudinary.com/xrakiohl/image/upload/v1783143802/pinterest/shopee-achados/PhotoGrid_Site_1759538635699-a557aa133e0d.jpg",
+        "theme": "carro limpo"
+      },
+      {
+        "url": "https://res.cloudinary.com/xrakiohl/image/upload/v1783143803/pinterest/shopee-achados/PhotoGrid_Site_1759538665299-8c3798991992.jpg",
+        "theme": "carro limpo"
+      },
+      {
+        "url": "https://res.cloudinary.com/xrakiohl/image/upload/v1783143804/pinterest/shopee-achados/PhotoGrid_Site_1759538725716-7e5b3880f246.jpg",
+        "theme": "carro limpo"
+      }
+    ]
+  },
+  {
+    "stable_product_id": "SHP008",
+    "name": "Mini Aspirador Robo",
+    "affiliate_url": "https://s.shopee.com.br/3g1489gmR1",
+    "allowed_themes": [
+      "casa limpa"
+    ],
+    "primary_intent": "organizar ou melhorar casa limpa",
+    "secondary_intents": [
+      "comparar alternativas",
+      "salvar inspiracao",
+      "avaliar uso na rotina"
+    ],
+    "forbidden_themes": [
+      "promessa de resultado garantido",
+      "urgencia falsa",
+      "misturar nicho desenho/manga"
+    ],
+    "images": [
+      {
+        "url": "https://res.cloudinary.com/xrakiohl/image/upload/v1783143807/pinterest/shopee-achados/PhotoGrid_Site_1759539035555-5a698702754e.jpg",
+        "theme": "casa limpa"
+      },
+      {
+        "url": "https://res.cloudinary.com/xrakiohl/image/upload/v1783143808/pinterest/shopee-achados/PhotoGrid_Site_1759539210936-016d6d580fde.jpg",
+        "theme": "casa limpa"
+      },
+      {
+        "url": "https://res.cloudinary.com/xrakiohl/image/upload/v1783143809/pinterest/shopee-achados/PhotoGrid_Site_1759539375784-40db7b5c47b9.jpg",
+        "theme": "casa limpa"
+      }
+    ]
+  },
+  {
+    "stable_product_id": "SHP009",
+    "name": "Luminaria Solar com Sensor",
+    "affiliate_url": "https://s.shopee.com.br/7VDmhF1CBe",
+    "allowed_themes": [
+      "área externa iluminada"
+    ],
+    "primary_intent": "organizar ou melhorar area externa iluminada",
+    "secondary_intents": [
+      "comparar alternativas",
+      "salvar inspiracao",
+      "avaliar uso na rotina"
+    ],
+    "forbidden_themes": [
+      "promessa de resultado garantido",
+      "urgencia falsa",
+      "misturar nicho desenho/manga"
+    ],
+    "images": [
+      {
+        "url": "https://res.cloudinary.com/xrakiohl/image/upload/v1783143834/pinterest/shopee-achados/PhotoGrid_Site_1759542281105-de807685df37.jpg",
+        "theme": "área externa iluminada"
+      },
+      {
+        "url": "https://res.cloudinary.com/xrakiohl/image/upload/v1783143835/pinterest/shopee-achados/PhotoGrid_Site_1759542320953-c310cab3617b.jpg",
+        "theme": "área externa iluminada"
+      },
+      {
+        "url": "https://res.cloudinary.com/xrakiohl/image/upload/v1783143836/pinterest/shopee-achados/PhotoGrid_Site_1759542439732-3c39c2994884.jpg",
+        "theme": "área externa iluminada"
+      }
+    ]
+  },
+  {
+    "stable_product_id": "SHP010",
+    "name": "Abajur Recarregavel Touch",
+    "affiliate_url": "https://s.shopee.com.br/AKXy4T7wpq",
+    "allowed_themes": [
+      "quarto aconchegante",
+      "quarto decorado"
+    ],
+    "primary_intent": "organizar ou melhorar quarto aconchegante",
+    "secondary_intents": [
+      "comparar alternativas",
+      "salvar inspiracao",
+      "avaliar uso na rotina"
+    ],
+    "forbidden_themes": [
+      "promessa de resultado garantido",
+      "urgencia falsa",
+      "misturar nicho desenho/manga"
+    ],
+    "images": [
+      {
+        "url": "https://res.cloudinary.com/xrakiohl/image/upload/v1783143829/pinterest/shopee-achados/PhotoGrid_Site_1759541146146-bfe6e227f2ae.jpg",
+        "theme": "quarto aconchegante"
+      },
+      {
+        "url": "https://res.cloudinary.com/xrakiohl/image/upload/v1783143830/pinterest/shopee-achados/PhotoGrid_Site_1759541198004-27c54287afa9.jpg",
+        "theme": "quarto aconchegante"
+      },
+      {
+        "url": "https://res.cloudinary.com/xrakiohl/image/upload/v1783143831/pinterest/shopee-achados/PhotoGrid_Site_1759541319438-6ecf93ad94e2.jpg",
+        "theme": "quarto aconchegante"
+      },
+      {
+        "url": "https://res.cloudinary.com/xrakiohl/image/upload/v1783143831/pinterest/shopee-achados/PhotoGrid_Site_1759541429708-4220353c736c.jpg",
+        "theme": "quarto decorado"
+      },
+      {
+        "url": "https://res.cloudinary.com/xrakiohl/image/upload/v1783143832/pinterest/shopee-achados/PhotoGrid_Site_1759541949313-519f21aa4f98.jpg",
+        "theme": "quarto decorado"
+      },
+      {
+        "url": "https://res.cloudinary.com/xrakiohl/image/upload/v1783143833/pinterest/shopee-achados/PhotoGrid_Site_1759542210684-ccbf4af176eb.jpg",
+        "theme": "quarto decorado"
+      }
+    ]
+  },
+  {
+    "stable_product_id": "SHP011",
+    "name": "Luminaria LED Bastao Magnetica",
+    "affiliate_url": "https://s.shopee.com.br/2LVgXo6396",
+    "allowed_themes": [
+      "armário iluminado"
+    ],
+    "primary_intent": "organizar ou melhorar armario iluminado",
+    "secondary_intents": [
+      "comparar alternativas",
+      "salvar inspiracao",
+      "avaliar uso na rotina"
+    ],
+    "forbidden_themes": [
+      "promessa de resultado garantido",
+      "urgencia falsa",
+      "misturar nicho desenho/manga"
+    ],
+    "images": [
+      {
+        "url": "https://res.cloudinary.com/xrakiohl/image/upload/v1783143795/pinterest/shopee-achados/PhotoGrid_Site_1759538058219-3490b3a4bbb8.jpg",
+        "theme": "armário iluminado"
+      },
+      {
+        "url": "https://res.cloudinary.com/xrakiohl/image/upload/v1783143796/pinterest/shopee-achados/PhotoGrid_Site_1759538110280-8fd624040bcf.jpg",
+        "theme": "armário iluminado"
+      },
+      {
+        "url": "https://res.cloudinary.com/xrakiohl/image/upload/v1783143797/pinterest/shopee-achados/PhotoGrid_Site_1759538150937-f09cd7ba5981.jpg",
+        "theme": "armário iluminado"
+      }
+    ]
+  },
+  {
+    "stable_product_id": "SHP012",
+    "name": "Projetor Astronauta Galaxia",
+    "affiliate_url": "https://s.shopee.com.br/2g8WwTCzGC",
+    "allowed_themes": [
+      "quarto aconchegante",
+      "quarto decorado"
+    ],
+    "primary_intent": "organizar ou melhorar quarto decorado",
+    "secondary_intents": [
+      "comparar alternativas",
+      "salvar inspiracao",
+      "avaliar uso na rotina"
+    ],
+    "forbidden_themes": [
+      "promessa de resultado garantido",
+      "urgencia falsa",
+      "misturar nicho desenho/manga"
+    ],
+    "images": [
+      {
+        "url": "https://res.cloudinary.com/xrakiohl/image/upload/v1783143829/pinterest/shopee-achados/PhotoGrid_Site_1759541146146-bfe6e227f2ae.jpg",
+        "theme": "quarto aconchegante"
+      },
+      {
+        "url": "https://res.cloudinary.com/xrakiohl/image/upload/v1783143830/pinterest/shopee-achados/PhotoGrid_Site_1759541198004-27c54287afa9.jpg",
+        "theme": "quarto aconchegante"
+      },
+      {
+        "url": "https://res.cloudinary.com/xrakiohl/image/upload/v1783143831/pinterest/shopee-achados/PhotoGrid_Site_1759541319438-6ecf93ad94e2.jpg",
+        "theme": "quarto aconchegante"
+      },
+      {
+        "url": "https://res.cloudinary.com/xrakiohl/image/upload/v1783143831/pinterest/shopee-achados/PhotoGrid_Site_1759541429708-4220353c736c.jpg",
+        "theme": "quarto decorado"
+      },
+      {
+        "url": "https://res.cloudinary.com/xrakiohl/image/upload/v1783143832/pinterest/shopee-achados/PhotoGrid_Site_1759541949313-519f21aa4f98.jpg",
+        "theme": "quarto decorado"
+      },
+      {
+        "url": "https://res.cloudinary.com/xrakiohl/image/upload/v1783143833/pinterest/shopee-achados/PhotoGrid_Site_1759542210684-ccbf4af176eb.jpg",
+        "theme": "quarto decorado"
+      }
+    ]
+  },
+  {
+    "stable_product_id": "SHP013",
+    "name": "Ampliador de Tela para Celular",
+    "affiliate_url": "https://s.shopee.com.br/1qZPwzEfmR",
+    "allowed_themes": [
+      "cantinho de entretenimento",
+      "mesa organizada"
+    ],
+    "primary_intent": "organizar ou melhorar cantinho de entretenimento",
+    "secondary_intents": [
+      "comparar alternativas",
+      "salvar inspiracao",
+      "avaliar uso na rotina"
+    ],
+    "forbidden_themes": [
+      "promessa de resultado garantido",
+      "urgencia falsa",
+      "misturar nicho desenho/manga"
+    ],
+    "images": [
+      {
+        "url": "https://res.cloudinary.com/xrakiohl/image/upload/v1783143800/pinterest/shopee-achados/PhotoGrid_Site_1759538400615-eb134d59b8d9.jpg",
+        "theme": "cantinho de entretenimento"
+      },
+      {
+        "url": "https://res.cloudinary.com/xrakiohl/image/upload/v1783143801/pinterest/shopee-achados/PhotoGrid_Site_1759538441515-6d123d618527.jpg",
+        "theme": "cantinho de entretenimento"
+      },
+      {
+        "url": "https://res.cloudinary.com/xrakiohl/image/upload/v1783143802/pinterest/shopee-achados/PhotoGrid_Site_1759538520533-f0b3bc3e9714.jpg",
+        "theme": "cantinho de entretenimento"
+      },
+      {
+        "url": "https://res.cloudinary.com/xrakiohl/image/upload/v1783143821/pinterest/shopee-achados/PhotoGrid_Site_1759540436626-bd50d881d869.jpg",
+        "theme": "mesa organizada"
+      },
+      {
+        "url": "https://res.cloudinary.com/xrakiohl/image/upload/v1783143822/pinterest/shopee-achados/PhotoGrid_Site_1759540543137-64c858839ec6.jpg",
+        "theme": "mesa organizada"
+      },
+      {
+        "url": "https://res.cloudinary.com/xrakiohl/image/upload/v1783143823/pinterest/shopee-achados/PhotoGrid_Site_1759540605141-c3e3e826d21f.jpg",
+        "theme": "mesa organizada"
+      }
+    ]
+  },
+  {
+    "stable_product_id": "SHP014",
+    "name": "Suporte Veicular para Celular",
+    "affiliate_url": "https://s.shopee.com.br/8fPk5c9B9u",
+    "allowed_themes": [
+      "carro limpo",
+      "carro organizado"
+    ],
+    "primary_intent": "organizar ou melhorar carro organizado",
+    "secondary_intents": [
+      "comparar alternativas",
+      "salvar inspiracao",
+      "avaliar uso na rotina"
+    ],
+    "forbidden_themes": [
+      "promessa de resultado garantido",
+      "urgencia falsa",
+      "misturar nicho desenho/manga"
+    ],
+    "images": [
+      {
+        "url": "https://res.cloudinary.com/xrakiohl/image/upload/v1783143802/pinterest/shopee-achados/PhotoGrid_Site_1759538635699-a557aa133e0d.jpg",
+        "theme": "carro limpo"
+      },
+      {
+        "url": "https://res.cloudinary.com/xrakiohl/image/upload/v1783143803/pinterest/shopee-achados/PhotoGrid_Site_1759538665299-8c3798991992.jpg",
+        "theme": "carro limpo"
+      },
+      {
+        "url": "https://res.cloudinary.com/xrakiohl/image/upload/v1783143804/pinterest/shopee-achados/PhotoGrid_Site_1759538725716-7e5b3880f246.jpg",
+        "theme": "carro limpo"
+      },
+      {
+        "url": "https://res.cloudinary.com/xrakiohl/image/upload/v1783143805/pinterest/shopee-achados/PhotoGrid_Site_1759538852207-b13e0c93db79.jpg",
+        "theme": "carro organizado"
+      },
+      {
+        "url": "https://res.cloudinary.com/xrakiohl/image/upload/v1783143805/pinterest/shopee-achados/PhotoGrid_Site_1759538937118-f545d408dd0a.jpg",
+        "theme": "carro organizado"
+      },
+      {
+        "url": "https://res.cloudinary.com/xrakiohl/image/upload/v1783143806/pinterest/shopee-achados/PhotoGrid_Site_1759538978298-1915816d2aa8.jpg",
+        "theme": "carro organizado"
+      }
+    ]
+  },
+  {
+    "stable_product_id": "SHP015",
+    "name": "Suporte de Carregamento de Parede",
+    "affiliate_url": "https://s.shopee.com.br/AKXy4dm2je",
+    "allowed_themes": [
+      "cantinho de entretenimento",
+      "mesa organizada"
+    ],
+    "primary_intent": "organizar ou melhorar mesa organizada",
+    "secondary_intents": [
+      "comparar alternativas",
+      "salvar inspiracao",
+      "avaliar uso na rotina"
+    ],
+    "forbidden_themes": [
+      "promessa de resultado garantido",
+      "urgencia falsa",
+      "misturar nicho desenho/manga"
+    ],
+    "images": [
+      {
+        "url": "https://res.cloudinary.com/xrakiohl/image/upload/v1783143800/pinterest/shopee-achados/PhotoGrid_Site_1759538400615-eb134d59b8d9.jpg",
+        "theme": "cantinho de entretenimento"
+      },
+      {
+        "url": "https://res.cloudinary.com/xrakiohl/image/upload/v1783143801/pinterest/shopee-achados/PhotoGrid_Site_1759538441515-6d123d618527.jpg",
+        "theme": "cantinho de entretenimento"
+      },
+      {
+        "url": "https://res.cloudinary.com/xrakiohl/image/upload/v1783143802/pinterest/shopee-achados/PhotoGrid_Site_1759538520533-f0b3bc3e9714.jpg",
+        "theme": "cantinho de entretenimento"
+      },
+      {
+        "url": "https://res.cloudinary.com/xrakiohl/image/upload/v1783143821/pinterest/shopee-achados/PhotoGrid_Site_1759540436626-bd50d881d869.jpg",
+        "theme": "mesa organizada"
+      },
+      {
+        "url": "https://res.cloudinary.com/xrakiohl/image/upload/v1783143822/pinterest/shopee-achados/PhotoGrid_Site_1759540543137-64c858839ec6.jpg",
+        "theme": "mesa organizada"
+      },
+      {
+        "url": "https://res.cloudinary.com/xrakiohl/image/upload/v1783143823/pinterest/shopee-achados/PhotoGrid_Site_1759540605141-c3e3e826d21f.jpg",
+        "theme": "mesa organizada"
+      }
+    ]
+  },
+  {
+    "stable_product_id": "SHP016",
+    "name": "Kit Necessaire Transparente",
+    "affiliate_url": "https://s.shopee.com.br/2g8WweKVQn",
+    "allowed_themes": [
+      "maquiagem organizada"
+    ],
+    "primary_intent": "organizar ou melhorar maquiagem organizada",
+    "secondary_intents": [
+      "comparar alternativas",
+      "salvar inspiracao",
+      "avaliar uso na rotina"
+    ],
+    "forbidden_themes": [
+      "promessa de resultado garantido",
+      "urgencia falsa",
+      "misturar nicho desenho/manga"
+    ],
+    "images": [
+      {
+        "url": "https://res.cloudinary.com/xrakiohl/image/upload/v1783143818/pinterest/shopee-achados/PhotoGrid_Site_1759540277742-5662569271c2.jpg",
+        "theme": "maquiagem organizada"
+      },
+      {
+        "url": "https://res.cloudinary.com/xrakiohl/image/upload/v1783143819/pinterest/shopee-achados/PhotoGrid_Site_1759540322240-9ed8f002da33.jpg",
+        "theme": "maquiagem organizada"
+      },
+      {
+        "url": "https://res.cloudinary.com/xrakiohl/image/upload/v1783143820/pinterest/shopee-achados/PhotoGrid_Site_1759540390602-ee194c698e62.jpg",
+        "theme": "maquiagem organizada"
+      }
+    ]
+  },
+  {
+    "stable_product_id": "SHP017",
+    "name": "Dispenser de Detergente e Bucha",
+    "affiliate_url": "https://s.shopee.com.br/2qRx90SQ9w",
+    "allowed_themes": [
+      "cozinha organizada",
+      "pia organizada"
+    ],
+    "primary_intent": "organizar ou melhorar pia organizada",
+    "secondary_intents": [
+      "comparar alternativas",
+      "salvar inspiracao",
+      "avaliar uso na rotina"
+    ],
+    "forbidden_themes": [
+      "promessa de resultado garantido",
+      "urgencia falsa",
+      "misturar nicho desenho/manga"
+    ],
+    "images": [
+      {
+        "url": "https://res.cloudinary.com/xrakiohl/image/upload/v1783143809/pinterest/shopee-achados/PhotoGrid_Site_1759539432984-9a856c7f184d.jpg",
+        "theme": "cozinha organizada"
+      },
+      {
+        "url": "https://res.cloudinary.com/xrakiohl/image/upload/v1783143811/pinterest/shopee-achados/PhotoGrid_Site_1759539506736-4e8db2731d80.jpg",
+        "theme": "cozinha organizada"
+      },
+      {
+        "url": "https://res.cloudinary.com/xrakiohl/image/upload/v1783143812/pinterest/shopee-achados/PhotoGrid_Site_1759539568780-8f6fd1b8be4d.jpg",
+        "theme": "cozinha organizada"
+      },
+      {
+        "url": "https://res.cloudinary.com/xrakiohl/image/upload/v1783143826/pinterest/shopee-achados/PhotoGrid_Site_1759540967737-1697a285b46d.jpg",
+        "theme": "pia organizada"
+      },
+      {
+        "url": "https://res.cloudinary.com/xrakiohl/image/upload/v1783143827/pinterest/shopee-achados/PhotoGrid_Site_1759541007648-b4eaf89877b9.jpg",
+        "theme": "pia organizada"
+      },
+      {
+        "url": "https://res.cloudinary.com/xrakiohl/image/upload/v1783143828/pinterest/shopee-achados/PhotoGrid_Site_1759541102911-2979d6ca756d.jpg",
+        "theme": "pia organizada"
+      }
+    ]
+  },
+  {
+    "stable_product_id": "SHP018",
+    "name": "Dispenser Luxo para Detergente",
+    "affiliate_url": "https://s.shopee.com.br/6L1pJTMkFQ",
+    "allowed_themes": [
+      "cozinha organizada",
+      "pia organizada"
+    ],
+    "primary_intent": "organizar ou melhorar pia organizada",
+    "secondary_intents": [
+      "comparar alternativas",
+      "salvar inspiracao",
+      "avaliar uso na rotina"
+    ],
+    "forbidden_themes": [
+      "promessa de resultado garantido",
+      "urgencia falsa",
+      "misturar nicho desenho/manga"
+    ],
+    "images": [
+      {
+        "url": "https://res.cloudinary.com/xrakiohl/image/upload/v1783143809/pinterest/shopee-achados/PhotoGrid_Site_1759539432984-9a856c7f184d.jpg",
+        "theme": "cozinha organizada"
+      },
+      {
+        "url": "https://res.cloudinary.com/xrakiohl/image/upload/v1783143811/pinterest/shopee-achados/PhotoGrid_Site_1759539506736-4e8db2731d80.jpg",
+        "theme": "cozinha organizada"
+      },
+      {
+        "url": "https://res.cloudinary.com/xrakiohl/image/upload/v1783143812/pinterest/shopee-achados/PhotoGrid_Site_1759539568780-8f6fd1b8be4d.jpg",
+        "theme": "cozinha organizada"
+      },
+      {
+        "url": "https://res.cloudinary.com/xrakiohl/image/upload/v1783143826/pinterest/shopee-achados/PhotoGrid_Site_1759540967737-1697a285b46d.jpg",
+        "theme": "pia organizada"
+      },
+      {
+        "url": "https://res.cloudinary.com/xrakiohl/image/upload/v1783143827/pinterest/shopee-achados/PhotoGrid_Site_1759541007648-b4eaf89877b9.jpg",
+        "theme": "pia organizada"
+      },
+      {
+        "url": "https://res.cloudinary.com/xrakiohl/image/upload/v1783143828/pinterest/shopee-achados/PhotoGrid_Site_1759541102911-2979d6ca756d.jpg",
+        "theme": "pia organizada"
+      }
+    ]
+  },
+  {
+    "stable_product_id": "SHP019",
+    "name": "Jogo de Tacas Diamond",
+    "affiliate_url": "https://s.shopee.com.br/70HW6k6HDh",
+    "allowed_themes": [
+      "mesa posta elegante"
+    ],
+    "primary_intent": "organizar ou melhorar mesa posta elegante",
+    "secondary_intents": [
+      "comparar alternativas",
+      "salvar inspiracao",
+      "avaliar uso na rotina"
+    ],
+    "forbidden_themes": [
+      "promessa de resultado garantido",
+      "urgencia falsa",
+      "misturar nicho desenho/manga"
+    ],
+    "images": [
+      {
+        "url": "https://res.cloudinary.com/xrakiohl/image/upload/v1783143823/pinterest/shopee-achados/PhotoGrid_Site_1759540742975-6ae386381e9d.jpg",
+        "theme": "mesa posta elegante"
+      },
+      {
+        "url": "https://res.cloudinary.com/xrakiohl/image/upload/v1783143824/pinterest/shopee-achados/PhotoGrid_Site_1759540799002-a05b6925c77f.jpg",
+        "theme": "mesa posta elegante"
+      },
+      {
+        "url": "https://res.cloudinary.com/xrakiohl/image/upload/v1783143825/pinterest/shopee-achados/PhotoGrid_Site_1759540842777-70d1c9e7e5fc.jpg",
+        "theme": "mesa posta elegante"
+      }
+    ]
+  },
+  {
+    "stable_product_id": "SHP020",
+    "name": "Kit Marmitas com Travas",
+    "affiliate_url": "https://s.shopee.com.br/8ATTUua9EQ",
+    "allowed_themes": [
+      "geladeira organizada"
+    ],
+    "primary_intent": "organizar ou melhorar geladeira organizada",
+    "secondary_intents": [
+      "comparar alternativas",
+      "salvar inspiracao",
+      "avaliar uso na rotina"
+    ],
+    "forbidden_themes": [
+      "promessa de resultado garantido",
+      "urgencia falsa",
+      "misturar nicho desenho/manga"
+    ],
+    "images": [
+      {
+        "url": "https://res.cloudinary.com/xrakiohl/image/upload/v1783143815/pinterest/shopee-achados/PhotoGrid_Site_1759539911536-9846f0cfb254.jpg",
+        "theme": "geladeira organizada"
+      },
+      {
+        "url": "https://res.cloudinary.com/xrakiohl/image/upload/v1783143816/pinterest/shopee-achados/PhotoGrid_Site_1759540103788-46088cf60d68.jpg",
+        "theme": "geladeira organizada"
+      },
+      {
+        "url": "https://res.cloudinary.com/xrakiohl/image/upload/v1783143817/pinterest/shopee-achados/PhotoGrid_Site_1759540178214-e0c27b3b8fdc.jpg",
+        "theme": "geladeira organizada"
+      }
+    ]
+  }
+]
